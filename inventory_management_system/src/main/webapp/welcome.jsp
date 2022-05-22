@@ -22,8 +22,8 @@
 		<h1>Abc Enterprise</h1>
 	</div>
 	<div class="button">
-		<a href="#" class="btn">Sign in</a>
-		<a href="#" class="btn" >Register</a>
+		<a href="http://localhost:8080/jsp/login.ims" class="btn">Sign in</a>
+		<a href="#" class="btn" >Sign Up</a>
 	</div>
 </header>
 </body>
